@@ -10,7 +10,7 @@
 - In order to use the module please clone the repo in a folder named Dynamic.
 - After wards run basic magento cmd to register a mdoule php bin/magento s:up.
 - Then please deploy the staic content with php bin/magento s:s:d -f.
-- Now user can check the configuration insde the Content Menu.
+- Now user can check the configuration in Admin panel insde the Content Menu.
 - There will be a submenu created with the name of Cmspagemanager.
 
  Thank You.
