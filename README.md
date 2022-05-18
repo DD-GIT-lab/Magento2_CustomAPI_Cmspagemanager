@@ -13,5 +13,5 @@
 - Now user can check the configuration insde the Content Menu.
 - There will be a submenu created with the name of Cmspagemanager.
 
-- Thank You.
+ Thank You.
 :+1: Happy Coding!!!
